@@ -1,5 +1,3 @@
-import React from "react";
-
 export type SessionDetail = {
   id: string;
   channel: string;

@@ -1,5 +1,3 @@
-import React from "react";
-
 export type KpiInfo = {
   label: string;
   definition: string;
