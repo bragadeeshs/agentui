@@ -1,5 +1,3 @@
-import React from "react";
-
 export function EmptyState({ title, description }: { title: string; description?: string }) {
   return (
     <div className="rounded-xl border border-dashed border-slate-300 p-6 text-center text-slate-600">
