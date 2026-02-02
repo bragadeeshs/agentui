@@ -1,5 +1,3 @@
-import React from "react";
-
 export type ReportBuilderState = {
   template: string;
   bots: string[];
